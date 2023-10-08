@@ -6,6 +6,8 @@ import LoansSection from "../profile/LoansSection";
 import RequestsSection from "../profile/RequestsSection";
 import { Redirect } from "react-router-dom";
 import Tab from "../../components/Tab";
+import Octicon from "../../components/Octicon";
+import LoginForm from "../../components/auth/LoginForm";
 
 const TABS = {
   LENT: "lents",

@@ -4,6 +4,8 @@ import BrowseByLanguage from "../../components/BrowseByLanguage";
 import CallToAction from "../../components/CallToAction";
 
 const config = require("../../../config/index");
+import Octicon from "../../components/Octicon";
+import LoginForm from "../../components/auth/LoginForm";
 
 const title = config.title;
 
