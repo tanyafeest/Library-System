@@ -2,6 +2,8 @@
 import React, { Component } from "react";
 import * as api from "../backendCalls";
 import NotFound from "../../components/NotFound";
+import Octicon from "../../components/Octicon";
+import LoginForm from "../../components/auth/LoginForm";
 
 const ReqUser = ComposedComponent => {
   class FetchUser extends Component {

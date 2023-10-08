@@ -4,6 +4,8 @@ import Modal from "react-modal";
 
 import Octicon from "../../components/Octicon";
 import MapContainer from "../../components/MapContainer";
+import Octicon from "../../components/Octicon";
+import LoginForm from "../../components/auth/LoginForm";
 
 const config = require("../../../config/index");
 
